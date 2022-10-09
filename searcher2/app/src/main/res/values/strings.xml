@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurant Searcher</string>
+    <string name = "download">Uncles burgirr </string>
+    <string name="download_Description">best burgirr in delhi</string>
+    <integer name = "download_cost">10</integer>
+    <string name = "download_rating">5.0</string>
+</resources>
